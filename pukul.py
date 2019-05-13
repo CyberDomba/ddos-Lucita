@@ -13,8 +13,8 @@ echo $c " ======================================= ${endc}";
 
 echo  "+===========================================+" |lolcat
 echo  "+ Team     : Cyber Domba $white            + " |lolcat
-echo  "+ Author   : MR.SADUT $white                         + " |lolcat
-echo  "+ Youtube  : Cyber Domba $white                   + " |lolcat
+echo  "+ Author   : MR.SADUT $white               + " |lolcat
+echo  "+ Youtube  : Cyber Domba $white            + " |lolcat
 echo  "+===========================================+" |lolcat
 
 
